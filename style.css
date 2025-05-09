@@ -1,0 +1,27 @@
+ @import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+body{
+  background: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/blue-fantasy-world-elisabeth-lucas.jpg);
+  font-family:"Arial", sans-serif;
+  padding:0;
+  margin:0;
+ 
+}
+H1,h2,h3,h4 {
+  color:#863059;
+  text-align: center;
+  font-size:30px;
+  font-family:"Viaoda Libre",cursive;
+  
+}
+
+
+p {
+  text-align: center;
+  color: #B6266E;
+  font-size: 20px;
+   font-family:"Delius",cursive
+}
+
+main {
+  padding: 80px;
+}
